@@ -85,7 +85,7 @@ Opening the Website
 
 you can open the website by visiting the link “ ” A browser in any operating System can successfully run the website. After entering the URL given above you will be redirected to the home page of website.
 
-![Home Page](HomePage.JPG "fig:") [fig:Home Page]
+![Home Page](./Screenshots/HomePage.JPG "fig:") [fig:Home Page]
 
 Registering in the Website
 --------------------------
